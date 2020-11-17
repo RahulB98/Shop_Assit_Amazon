@@ -1,5 +1,5 @@
 # Shop_Assit_Amazon
- a program to assist my shopping habit by scraping my desired product details from Amazpn.in and sending me alerts whenever my conditions are met.
+ a program to assist my shopping habit by scraping my desired product details from Amazon.in and sending me alerts whenever my conditions are met.
  
  Due to the circumstances which were caused due to the outbreak of Covid-19, this whole world was pushed online for its daily functioning, we all saw a rise in our online activity, whether it is work and study related or for our past time.
 
@@ -12,6 +12,7 @@
  2. Comparison of retrieved price from my desired price for the product
  3. Sending a whatsapp alert directly to my phone when my conditions are met (in self defined function "whatsapp_alert")
  
+
 1. Web scraping of pricing through Beautiful Soup library use:
  I use the bs4 library to use the Beautifulsoup function which helps me retrieve id specific text which contain prices of the aricles that I search for, these prices are then converted to float calues for comparison. These prices are obtainedas the url is feeded through the csv file named "items_list.csv" which contains the url and desired price for the particular item. each item is iterated through when the function is called and each link is scraped using the Beautifulsoup function. I use 'try and except' everytime I search for the price of the product because different product prices are listed under certain different ids, which I observed using the inspect elemnt feature in chrome, which allows you to see the respective HTML code, now remeber beautifulsoup allows you to obtain the HTML data of a webpage and get the various tags and text data. So it made it all easy.   
  
