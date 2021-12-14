@@ -1,7 +1,7 @@
 # Shop_Assit_Amazon
  a program to assist my shopping habit by scraping my desired product details from Amazon.in and sending me alerts whenever my conditions are met.
  
- Due to the circumstances which were caused due to the outbreak of Covid-19, this whole world was pushed online for its daily functioning, we all saw a rise in our online activity, whether it is work and study related or for our past time.
+ Due to the circumstances which were caused due to the outbreak of Covid-19, this whole world was pushed online for its daily functioning, we all saw a rise in our online activity, whether it is work and study related or for our pass-time.
 
  The same happened to me, with most of the shopping moved online,I found myself at the amazon.in website looking for things and articles that I wanted to buy, I developed a    tendency to check for the prices and observed that the prices of the things that I wanted to buy changed frequently and the things were available at diferent prices during different times if the week, so having a desire to get the stuff that I want at a price that is suitable to me, I started visiting the amazon site. I soon realised that I visited  it more often than enough just to check on the prices of the things that I wanted to buy, which isn't good both practically and physically as it is time consuming and often hectic if you are a person like me who wants to get a lot of stuff.
 
